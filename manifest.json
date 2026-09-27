@@ -1,0 +1,8 @@
+{
+  "versionCode": 38,
+  "versionName": "2.3.1",
+  "apkUrl": "https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.1/FinalShift-2.3.1.apk",
+  "sha256": "e944ceefdeffd43d75f9688e0d01b267a9b717a9b6204b07714d5e5db6ea1cf1",
+  "changelog": "Fixes repeated loading and flickering when no games are scheduled. Adds a stable “No scheduled games today” display and moves future updates to the new update service.",
+  "required": false
+}
