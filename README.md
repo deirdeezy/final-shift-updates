@@ -4,19 +4,27 @@ Official Final Shift APK downloads and update information.
 
 ## Download
 
-[Download Final Shift 2.3.1](https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.1/FinalShift-2.3.1.apk)
+[Download Final Shift 2.3.2](https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.2/FinalShift-2.3.2.apk)
 
 [All releases](https://github.com/deirdeezy/final-shift-updates/releases)
 
 ## Moving from version 2.3 or earlier
 
-Install version 2.3.1 once over your existing Final Shift installation. **Do not uninstall the app first.** The matching app signature allows your saved login and settings to carry over.
+Install version 2.3.2 once over your existing Final Shift installation. **Do not uninstall the app first.** The matching app signature allows your saved login and settings to carry over.
 
 1. Download the APK onto your Android TV, phone, or tablet, or transfer it from another device.
 2. Open the APK and allow installation from the app opening it if Android asks.
 3. Choose **Update** or **Install**, then open Final Shift.
 
-This version switches to the new update service. Future updates are available through **About → App Info → Check for Updates**. Earlier versions still check the previous service and cannot discover this migration automatically.
+Versions 2.3.1 and later use this update service. Updates are available through **About → App Info → Check for Updates**. Versions 2.3 and earlier still check the previous service and cannot discover this migration automatically.
+
+## Version 2.3.2
+
+- Scrolls overflowing feed grids while keeping the matchup header fixed and preserving card/header sizes.
+- Keeps the original layout for two to four feeds.
+- Preserves the selected feed and scroll position during refreshes and when returning from playback.
+- Retains selection when feeds reorder; if the selected feed disappears, focus moves to the nearest remaining feed.
+- Keeps focused cards and their glow fully visible with the TV remote. Phones and tablets can swipe the grid.
 
 ## Version 2.3.1
 
