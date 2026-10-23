@@ -1,8 +1,8 @@
 {
-  "versionCode": 39,
-  "versionName": "2.3.2",
-  "apkUrl": "https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.2/FinalShift-2.3.2.apk",
-  "sha256": "44b5854ab84aa5af30c30c376ed3a068b7c7eb45fad9ec9a0aedbbff9c473ff0",
-  "changelog": "Scrolls overflowing feed grids while keeping the matchup header fixed and card/header sizes unchanged. Two to four feeds retain the original layout. Preserves the selected feed and scroll position during refreshes and when returning from playback. Retains selection when feeds reorder; if the selected feed disappears, focus moves to the nearest remaining feed. Keeps focused cards and their glow fully visible with the TV remote; phones and tablets can swipe the grid.",
+  "versionCode": 40,
+  "versionName": "2.3.3",
+  "apkUrl": "https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.3/FinalShift-2.3.3.apk",
+  "sha256": "2d6e8fa7647b03e24b79159da54d7d7f460952a96dd0ef07e1d17c6f881dc8ff",
+  "changelog": "Fixes clipped letters in stream-card time labels so “Today” displays its complete “y”, including after background refreshes. Preserves font sizes, outer card and matchup-header sizes, scrolling, and focus behavior.",
   "required": false
 }

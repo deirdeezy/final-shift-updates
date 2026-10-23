@@ -4,19 +4,24 @@ Official Final Shift APK downloads and update information.
 
 ## Download
 
-[Download Final Shift 2.3.2](https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.2/FinalShift-2.3.2.apk)
+[Download Final Shift 2.3.3](https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.3/FinalShift-2.3.3.apk)
 
 [All releases](https://github.com/deirdeezy/final-shift-updates/releases)
 
 ## Moving from version 2.3 or earlier
 
-Install version 2.3.2 once over your existing Final Shift installation. **Do not uninstall the app first.** The matching app signature allows your saved login and settings to carry over.
+Install version 2.3.3 once over your existing Final Shift installation. **Do not uninstall the app first.** The matching app signature allows your saved login and settings to carry over.
 
 1. Download the APK onto your Android TV, phone, or tablet, or transfer it from another device.
 2. Open the APK and allow installation from the app opening it if Android asks.
 3. Choose **Update** or **Install**, then open Final Shift.
 
 Versions 2.3.1 and later use this update service. Updates are available through **About → App Info → Check for Updates**. Versions 2.3 and earlier still check the previous service and cannot discover this migration automatically.
+
+## Version 2.3.3
+
+- Fixes clipped letters in stream-card time labels so “Today” displays its complete “y”, including after background refreshes.
+- Preserves font sizes, outer card and matchup-header sizes, scrolling, and focus behavior.
 
 ## Version 2.3.2
 
