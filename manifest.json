@@ -1,8 +1,8 @@
 {
-  "versionCode": 41,
-  "versionName": "2.3.4",
-  "apkUrl": "https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.4/FinalShift-2.3.4.apk",
-  "sha256": "9d7dd9d0c847056912453452b64fddbaeff5ca318d9c6f6fafe2040c257d40e7",
-  "changelog": "Corrects one-hour early game start times on devices set to Vancouver or Canada/Pacific with older daylight-saving rules. Uses B.C.’s permanent UTC−7 for Games, feed selection and Today/weekday labels, including around midnight. Devices configured for US Pacific should select Vancouver for B.C. local time.",
+  "versionCode": 42,
+  "versionName": "2.3.5",
+  "apkUrl": "https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.5/FinalShift-2.3.5.apk",
+  "sha256": "891b0db0a213734778686e69bf59bfc23a567153c477c97b51b6efd10f0239f5",
+  "changelog": "Adds a live buffer meter and playback-status icons when you press Select or tap during playback. Shows your active buffer mode, actual seconds buffered, measured live delay and its target. Updates the readout twice per second for six seconds, with clear short-window and unavailable-time labels. Clarifies buffer setting descriptions and receiver-managed Cast buffering. Includes the B.C. game-time correction from 2.3.4.",
   "required": false
 }
