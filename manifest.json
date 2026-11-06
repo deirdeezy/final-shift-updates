@@ -1,8 +1,8 @@
 {
-  "versionCode": 40,
-  "versionName": "2.3.3",
-  "apkUrl": "https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.3/FinalShift-2.3.3.apk",
-  "sha256": "2d6e8fa7647b03e24b79159da54d7d7f460952a96dd0ef07e1d17c6f881dc8ff",
-  "changelog": "Fixes clipped letters in stream-card time labels so “Today” displays its complete “y”, including after background refreshes. Preserves font sizes, outer card and matchup-header sizes, scrolling, and focus behavior.",
+  "versionCode": 41,
+  "versionName": "2.3.4",
+  "apkUrl": "https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.4/FinalShift-2.3.4.apk",
+  "sha256": "9d7dd9d0c847056912453452b64fddbaeff5ca318d9c6f6fafe2040c257d40e7",
+  "changelog": "Corrects one-hour early game start times on devices set to Vancouver or Canada/Pacific with older daylight-saving rules. Uses B.C.’s permanent UTC−7 for Games, feed selection and Today/weekday labels, including around midnight. Devices configured for US Pacific should select Vancouver for B.C. local time.",
   "required": false
 }

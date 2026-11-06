@@ -4,19 +4,25 @@ Official Final Shift APK downloads and update information.
 
 ## Download
 
-[Download Final Shift 2.3.3](https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.3/FinalShift-2.3.3.apk)
+[Download Final Shift 2.3.4](https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.4/FinalShift-2.3.4.apk)
 
 [All releases](https://github.com/deirdeezy/final-shift-updates/releases)
 
 ## Moving from version 2.3 or earlier
 
-Install version 2.3.3 once over your existing Final Shift installation. **Do not uninstall the app first.** The matching app signature allows your saved login and settings to carry over.
+Install version 2.3.4 once over your existing Final Shift installation. **Do not uninstall the app first.** The matching app signature allows your saved login and settings to carry over.
 
 1. Download the APK onto your Android TV, phone, or tablet, or transfer it from another device.
 2. Open the APK and allow installation from the app opening it if Android asks.
 3. Choose **Update** or **Install**, then open Final Shift.
 
 Versions 2.3.1 and later use this update service. Updates are available through **About → App Info → Check for Updates**. Versions 2.3 and earlier still check the previous service and cannot discover this migration automatically.
+
+## Version 2.3.4
+
+- Corrects one-hour early game times on devices set to Vancouver or Canada/Pacific with older daylight-saving rules.
+- Uses B.C.'s permanent UTC−7 for Games, feed selection and Today/weekday labels, including around midnight.
+- Devices configured for US Pacific should select Vancouver for B.C. local time.
 
 ## Version 2.3.3
 
