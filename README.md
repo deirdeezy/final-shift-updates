@@ -4,19 +4,25 @@ Official Final Shift APK downloads and update information.
 
 ## Download
 
-[Download Final Shift 2.3.5](https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.5/FinalShift-2.3.5.apk)
+[Download Final Shift 2.3.6](https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.6/FinalShift-2.3.6.apk)
 
 [All releases](https://github.com/deirdeezy/final-shift-updates/releases)
 
 ## Moving from version 2.3 or earlier
 
-Install version 2.3.5 once over your existing Final Shift installation. **Do not uninstall the app first.** The matching app signature allows your saved login and settings to carry over.
+Install version 2.3.6 once over your existing Final Shift installation. **Do not uninstall the app first.** The matching app signature allows your saved login and settings to carry over.
 
 1. Download the APK onto your Android TV, phone, or tablet, or transfer it from another device.
 2. Open the APK and allow installation from the app opening it if Android asks.
 3. Choose **Update** or **Install**, then open Final Shift.
 
 Versions 2.3.1 and later use this update service. Updates are available through **About → App Info → Check for Updates**. Versions 2.3 and earlier still check the previous service and cannot discover this migration automatically.
+
+## Version 2.3.6
+
+- Shows the full NOT STARTED message on the Games screen instead of cutting it off.
+- Keeps the complete message visible during automatic status refreshes.
+- Preserves existing card sizes, text sizes and navigation.
 
 ## Version 2.3.5
 

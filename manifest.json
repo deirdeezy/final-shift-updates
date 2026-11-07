@@ -1,8 +1,8 @@
 {
-  "versionCode": 42,
-  "versionName": "2.3.5",
-  "apkUrl": "https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.5/FinalShift-2.3.5.apk",
-  "sha256": "891b0db0a213734778686e69bf59bfc23a567153c477c97b51b6efd10f0239f5",
-  "changelog": "Adds a live buffer meter and playback-status icons when you press Select or tap during playback. Shows your active buffer mode, actual seconds buffered, measured live delay and its target. Updates the readout twice per second for six seconds, with clear short-window and unavailable-time labels. Clarifies buffer setting descriptions and receiver-managed Cast buffering. Includes the B.C. game-time correction from 2.3.4.",
+  "versionCode": 43,
+  "versionName": "2.3.6",
+  "apkUrl": "https://github.com/deirdeezy/final-shift-updates/releases/download/v2.3.6/FinalShift-2.3.6.apk",
+  "sha256": "57a57c990918f0b937fa144bb0612139b28f55d612f99e88784b38a82304e919",
+  "changelog": "Fixes the Games screen showing NOT… instead of the full NOT STARTED message before a game begins. Keeps the complete message visible during automatic status refreshes, preserving card sizes, text sizes and navigation. Includes the buffer overlay and B.C. game-time fixes from earlier releases.",
   "required": false
 }
